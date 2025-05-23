@@ -3,7 +3,7 @@
 Индекс: 161220  
 
 2. CFG
-![CFG](cfg.png)
+![CFG](CFG_SILab2.drawio.png)
 
 
 3. ## Цикломатска комплексност
